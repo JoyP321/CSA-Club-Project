@@ -7,7 +7,7 @@
  .titleimg{
 	 width: 100%;
 	 padding-top: 25px;
-	 padding-bottom: 25px;
+	 padding-bottom: 50px;
 	 opacity: 0.5;
  }
  
@@ -18,4 +18,27 @@
 	transform: translate(-50%, -50%);
 	color: white;
 	font-size: 100px;
+ }
+ 
+ .spinner-grow{
+	position: absolute;
+	margin-left: -8px;
+	left: 50%;
+	top:800px;
+	
+ }
+ 
+ h2{
+	 text-align:center;
+	 
+ }
+ 
+ hr{
+	margin-top: 1rem;
+	margin-bottom: 1rem;
+	margin-left: 35rem;
+	margin-right: 35rem;
+	border: 0;
+	border-top: 2px solid rgb(92,184,92);
+	
  }
