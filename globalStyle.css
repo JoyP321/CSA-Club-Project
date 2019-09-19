@@ -1,5 +1,21 @@
-.carousel-inner img {
+.carousel-inner img{
      width: 100%;
      height: 100%;
 	 padding: 20px;
+ }
+ 
+ .titleimg{
+	 width: 100%;
+	 padding-top: 25px;
+	 padding-bottom: 25px;
+	 opacity: 0.5;
+ }
+ 
+ .titletext{
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translate(-50%, -50%);
+	color: white;
+	font-size: 100px;
  }
