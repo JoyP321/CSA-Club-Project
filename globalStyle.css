@@ -16,7 +16,7 @@
  }
  
  .titletext{
-	color: black;
+	color: white;
 	font-size: 8vw;
 	position: absolute;
 	top: 50%;
@@ -30,18 +30,8 @@
 	text-align: center;
 	color: white;
 }
- .spinner-grow{
-	position: absolute;
-	margin-left: -8px;
-	left: 50%;
-	top:800px;
-	
- }
+
  
- body{
-	 margin:0px;
-	 padding:0px;
- }
 
  
  h2{
@@ -52,9 +42,9 @@
  hr{
 	margin-top: 1rem;
 	margin-bottom: 1rem;
-	margin-left: 35rem;
-	margin-right: 35rem;
-	border: 0;
+	margin-left: 35%;
+	margin-right: 35%;
+	border: 0px;
 	border-top: 2px solid rgb(92,184,92);
 	
  }
