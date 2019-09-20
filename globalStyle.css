@@ -6,20 +6,30 @@
  
  .titleimg{
 	 width: 100%;
+	height: auto;
+	padding-left:0px;
+	padding-right:0px;
 	 padding-top: 25px;
 	 padding-bottom: 50px;
 	 opacity: 0.5;
+	
  }
  
  .titletext{
+	color: black;
+	font-size: 8vw;
 	position: absolute;
 	top: 50%;
 	left: 50%;
 	transform: translate(-50%, -50%);
-	color: white;
-	font-size: 100px;
  }
  
+ 
+ .container {
+	position: relative;
+	text-align: center;
+	color: white;
+}
  .spinner-grow{
 	position: absolute;
 	margin-left: -8px;
@@ -28,8 +38,14 @@
 	
  }
  
+ body{
+	 margin:0px;
+	 padding:0px;
+ }
+
+ 
  h2{
-	 text-align:center;
+	text-align:center;
 	 
  }
  
