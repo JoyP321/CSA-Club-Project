@@ -43,6 +43,11 @@ p{
 	 
  }
  
+ h1{
+	 text-align:center;
+	 font-size:110px;
+ }
+ 
  hr{
 	margin-top: 1rem;
 	margin-bottom: 1rem;
