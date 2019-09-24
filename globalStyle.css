@@ -5,18 +5,13 @@
  }
  
  .titleimg{
-	 width: 100%;
+	width: 100%;
 	height: auto;
 	padding-left:0px;
 	padding-right:0px;
-	 padding-top: 25px;
-	 padding-bottom: 50px;
-
-	 opacity: 0.5;
-
-	
-
-	 opacity: 0.55;
+	padding-top: 25px;
+	padding-bottom: 50px;
+	opacity: 0.55;
 
  }
  
@@ -24,7 +19,7 @@
 	color: white;
 	font-size: 8vw;
 	position: absolute;
-	top: 50%;
+	top: 300px;
 	left: 50%;
 	transform: translate(-50%, -50%);
  }
