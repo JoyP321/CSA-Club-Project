@@ -12,6 +12,7 @@
 	 padding-top: 25px;
 	 padding-bottom: 50px;
 	 opacity: 0.5;
+
 	
  }
  
@@ -25,12 +26,12 @@
  }
  
  
- .container {
+ .subcontainer{
 	position: relative;
 	text-align: center;
-	color: white;
-}
-
+ }
+	
+	
 p{
 	text-align: center;
 	padding:20px;
