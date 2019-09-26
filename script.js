@@ -8,4 +8,6 @@ $(document).ready(function(){
 		$(".titletext").css({"font-size": "8vw"});
 	});
 	
+	
+	
 });
