@@ -59,3 +59,16 @@ p{
 	
  }
  
+ #textcolor
+ {
+	 text-align:center;
+	 color:white;
+ }
+ 
+ #CSAPage
+ {	 
+	 margin-left: 46%;
+	 margin-top:1rem;
+	 margin-bottom: 1rem;
+	 background: #32CD32;
+ }
