@@ -71,8 +71,7 @@ p{
  
  #CSAPage
  {	 
-	 margin-left: 46%;
-	 margin-top:1rem;
-	 margin-bottom: 1rem;
-	 background: #32CD32;
+	display: block;
+	margin: auto;
+	 background: #5cb85c;
  }
