@@ -1,7 +1,7 @@
   
 $(document).ready(function(){
 	$(".titletext").mouseover(function(){
-		$(".titletext").css({"font-size": "10vw"});
+		$(".titletext").css({"font-size": "9vw"});
 	});
 	
 	$(".titletext").mouseleave(function(){
